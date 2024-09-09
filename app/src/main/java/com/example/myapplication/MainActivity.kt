@@ -1,4 +1,4 @@
-package com.example.myapplication
+git push -u origin mainpackage com.example.myapplication
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -18,3 +18,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+print("my name is maowiz")
